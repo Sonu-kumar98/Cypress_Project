@@ -1,0 +1,8 @@
+{
+    "LoginPageLocator":
+    {
+        "UserName":"[id=Email]",
+        "Password":"[id=Password]",
+        "SubmitButton":"[type=submit]"
+    }
+}
